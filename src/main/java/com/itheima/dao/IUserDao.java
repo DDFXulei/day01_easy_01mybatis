@@ -8,7 +8,7 @@ import java.util.List;
  * @Author: Joseph Xu
  * @Date: 2020/11/21 21:30
  */
-public interface IUser {
+public interface IUserDao {
 
     /**
      *
